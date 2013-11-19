@@ -1,0 +1,13 @@
+.modal {
+	display: block;
+	height: 0;
+	overflow: visible;
+}
+
+.strike {
+	text-decoration: line-through;
+}
+
+.hoverable:hover {
+	background-color: #f4f4f4;
+}
